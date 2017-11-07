@@ -3,8 +3,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.gigamole.navigationtabbar.ntb.NavigationTabBar
-        android:id="@+id/ntb_vertical"
-        android:layout_width="150dp"
+  <devlight.io.library.ntb.NavigationTabBar
+      android:id="@+id/ntb_vertical"
+        android:layout_width="160dp"
         android:layout_height="match_parent" />
 </LinearLayout>

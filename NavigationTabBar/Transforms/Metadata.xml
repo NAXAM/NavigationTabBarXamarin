@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<attr path="/api/package[@name='com.gigamole.navigationtabbar.behavior']/class[@name='VerticalScrollingBehavior']" name="visibility">public</attr>
-  <attr path="/api/package[@name='com.gigamole.navigationtabbar.behavior']/class[@name='VerticalScrollingBehavior']/method[@name='getScrollDirection' and count(parameter)=0]" name="managedName">CurrentScrollDirection</attr>
-	<attr path="/api/package[@name='com.gigamole.navigationtabbar.behavior']/class[@name='VerticalScrollingBehavior']/method[@name='onDirectionNestedPreScroll' and count(parameter)=0]" name="visibility">public</attr>
-	<attr path="/api/package[@name='com.gigamole.navigationtabbar.behavior']/class[@name='VerticalScrollingBehavior']/method[@name='onNestedVerticalOverScroll' and count(parameter)=0]" name="visibility">public</attr>
+  <attr path="/api/package[@name='devlight.io.library.behavior']/class[@name='VerticalScrollingBehavior']" name="visibility">public</attr>
+  <attr path="/api/package[@name='devlight.io.library.behavior']/class[@name='VerticalScrollingBehavior']/method[@name='onDirectionNestedPreScroll' and count(parameter)=0]" name="visibility">public</attr>
+  <attr path="/api/package[@name='devlight.io.library.behavior']/class[@name='VerticalScrollingBehavior']/method[@name='onNestedVerticalOverScroll' and count(parameter)=0]" name="visibility">public</attr>
 </metadata>
